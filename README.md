@@ -5,7 +5,6 @@ Backend    : Django, Python, Sqlite3
 
 Frontend   : HTML, CSS, Bootstrap, Javascript, Ajax
 
-Gateway    : Razorpay
 
 # 🏠Home Page
 <img src="https://github.com/Qasim-Ali-coder/DQSTORE/blob/master/p1.PNG">
@@ -25,13 +24,7 @@ Gateway    : Razorpay
 # 🔥Admin Site
 <img src="https://github.com/Qasim-Ali-coder/DQSTORE/blob/master/product_images.PNG">
 
-## NOTE: Make payment freely through following Bank account numbers
 
-### 💳Master Cards: 4111 1111 1111 1111,    5555 5555 5555 4444
-
-### 💳Visa Cards: 4111 1111 1111 1111,      4012 8888 8888 1881
-
-### CVV : 123
 
 ## 💻 Installation steps
 
@@ -49,19 +42,11 @@ http://127.0.0.1:8000/ paste it in the browser UTL
 
 ## 🔗 Payment Gateway Information
 
-Gateway used: https://razorpay.com/
 
 ## 🧑 Author
 
-#### Muhammad Qasim Ali
+#### Audrey Mitchel Macharia
 
-You can also follow my GitHub Profile to stay updated about my latest projects:
 
-[![GitHub Follow](https://img.shields.io/badge/Connect-Qasim-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/Qasim-Ali-coder)
 
-If you liked the repo then kindly support it by giving it a star ⭐!
-
-Logo designing credit goes to Zain Ali. Also follow him [![GitHub Follow](https://img.shields.io/badge/Connect-ZAIN-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/ZAINALI14)
-
-Copyright (c) 2021 MUHAMMAD QASIM ALI
 # Estore
