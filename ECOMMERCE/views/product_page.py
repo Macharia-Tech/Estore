@@ -27,7 +27,7 @@ def products(request):
                 cart[product_id]['quantity'] = 1
         request.session['cart'] = cart
     # ===================   CART END          ======================
-    if request.method == 'POST' or request.is_ajax():
+    if request.method == 'POST':
         cat1=request.POST.get('category')
         price = request.POST.get('price')
         # ================       SEARCH BAR          ==========================

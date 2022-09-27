@@ -9,7 +9,7 @@ from time import time
 def cart(request):
     # if not request.user.is_authenticated:
     #     return redirect('login')
-    # client = razorpay.Client(auth=(KEY_ID, KEY_SECRET))
+    client = auth=(KEY_ID, KEY_SECRET)
     delete = request.GET.get('delete')
     total_bill = request.GET.get('bill')
     cart=request.session.get('cart')
@@ -39,7 +39,7 @@ def cart(request):
                                                         price=p_price)
                     customer_products.save()
 
-                currency = 'PKR'
+                currency = 'PKKSH'
                 notes = {
                     'email': customer_email,
                     'name': f"{request.user.first_name} {request.user.last_name}"
