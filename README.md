@@ -10,6 +10,4 @@ Frontend   : HTML, CSS, Bootstrap, Javascript, Ajax
 
 #### Audrey Mitchel Macharia
 
-
-
 # Estore
